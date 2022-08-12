@@ -1,0 +1,20 @@
+use db1;
+
+drop table if exists tb_brand;
+
+create table tb_brand;
+
+create table tb_brand
+    (
+      id           int primary key auto_increment,
+      brand_name   varchar(20),
+      company_name varchar(20),
+      ordered      int,
+      description  varchar(100),
+      status       int
+    );
+
+insert into tb_brand (brand_name, company_name, ordered, description, status)
+     values ('Pixel', 'Google LLC ', 99, 'Pixel is awesome', 1),
+           ('Iphone', 'Apple Inc.', 80, 'Iphone is popular', 1),
+           ('HuaiWei', 'Huawei Co.', 90, 'are you ok', 0);
