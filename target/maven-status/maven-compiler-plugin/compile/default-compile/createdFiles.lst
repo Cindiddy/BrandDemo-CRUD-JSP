@@ -1,0 +1,9 @@
+com/cindy/mapper/BrandMapper.class
+com/cindy/web/UpdateServlet.class
+com/cindy/web/AddServlet.class
+com/cindy/pojo/Brand.class
+com/cindy/util/SqlSessionFactoryUtils.class
+com/cindy/web/SelectAllServlet.class
+com/cindy/web/SelectByIdServlet.class
+com/cindy/service/BrandService.class
+com/cindy/web/DeleteByIdServlet.class
