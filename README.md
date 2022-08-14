@@ -16,4 +16,12 @@
 * Delete brand
 
 ###### Login Page
-<img src="Imgs/Login.png" width=400>
+<img src="Imgs/Login.png" width=500>
+###### Register Page
+<img src="Imgs/Register.png" width=500>
+
+###### Registered Successfully 
+<img src="Imgs/registersuccessfully.png" width=500>
+
+###### Login to the account just registered
+<img src="Imgs/cindycindyaccount.png" width=500>
