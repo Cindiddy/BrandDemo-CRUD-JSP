@@ -16,4 +16,4 @@
 * Delete brand
 
 ###### Login Page
-![This is an image](Imgs/Login.png)
+<img src="Imgs/Login.png" width=150>
