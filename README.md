@@ -16,4 +16,4 @@
 * Delete brand
 
 ###### Login Page
-![This is an image](Imgs/Login.png = 100x)
+![This is an image](Imgs/Login.png)
