@@ -15,13 +15,13 @@
 * Update brand
 * Delete brand
 
-###### Login Page
+###### 1) Login Page
 <img src="Imgs/Login.png" width=500>
-###### Register Page
+###### 2) Register Page
 <img src="Imgs/Register.png" width=500>
 
-###### Registered Successfully 
+###### 3)Registered Successfully 
 <img src="Imgs/registersuccessfully.png" width=500>
 
-###### Login to the account just registered
+###### 4) Login to the account just registered
 <img src="Imgs/cindycindyaccount.png" width=500>
