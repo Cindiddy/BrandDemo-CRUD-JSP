@@ -8,6 +8,8 @@
     <title>Title</title>
 </head>
 <body>
+
+<h1>Welcome! ${user.username)}</h1>
 <input type="button" value="Add" id="add"><br>
 <hr>
 <table border="1" cellspacing="0" width="800">

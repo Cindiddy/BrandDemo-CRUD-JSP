@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to Registration</title>
+    <link href="css/register.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="form-div">
+    <div class="reg-content">
+        <h1>Welcome to Registration</h1>
+        <span>Already has account？</span> <a href="login.html">Register</a>
+    </div>
+    <form id="reg-form" action="#" method="get">
+
+        <table>
+
+            <tr>
+                <td>Username</td>
+                <td class="inputs">
+                    <input name="username" type="text" id="username">
+                    <br>
+                    <span id="username_err" class="err_msg" style="display: none">Username is incorrect</span>
+                </td>
+
+            </tr>
+
+            <tr>
+                <td>Password</td>
+                <td class="inputs">
+                    <input name="password" type="password" id="password">
+                    <br>
+                    <span id="password_err" class="err_msg" style="display: none">Incorrect format</span>
+                </td>
+            </tr>
+
+
+            <tr>
+                <td>Validation code</td>
+                <td class="inputs">
+                    <input name="checkCode" type="text" id="checkCode">
+                    <img src="imgs/a.jpg">
+                    <a href="#" id="changeImg">not clear？</a>
+                </td>
+            </tr>
+
+        </table>
+
+        <div class="buttons">
+            <input value="Register" type="submit" id="reg_btn">
+        </div>
+        <br class="clear">
+    </form>
+
+</div>
+</body>
+</html>

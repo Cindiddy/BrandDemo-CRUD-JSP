@@ -39,3 +39,5 @@
 0:0:0:0:0:0:0:1 - - [11/Aug/2022:16:10:07 -0400] "GET /brand-demo/deleteByIdServlet?id=4 HTTP/1.1" 200 1876 http-bio-6300-exec-4 31
 0:0:0:0:0:0:0:1 - - [11/Aug/2022:16:10:11 -0400] "GET /brand-demo/addBrand.jsp HTTP/1.1" 200 548 http-bio-6300-exec-5 12
 0:0:0:0:0:0:0:1 - - [11/Aug/2022:16:10:39 -0400] "POST /brand-demo/addServlet HTTP/1.1" 200 2334 http-bio-6300-exec-6 25
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:21:35:17 -0400] "GET /brand-demo HTTP/1.1" 302 - http-bio-6300-exec-1 0
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:21:35:17 -0400] "GET /brand-demo/ HTTP/1.1" 304 - http-bio-6300-exec-3 4
