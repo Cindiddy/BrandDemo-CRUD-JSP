@@ -16,4 +16,4 @@
 * Delete brand
 
 ###### Login Page
-<img src="Imgs/Login.png" width=150>
+<img src="Imgs/Login.png" width=400>
