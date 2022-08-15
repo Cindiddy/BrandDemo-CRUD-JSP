@@ -14,6 +14,7 @@
 * Add new brand
 * Update brand
 * Delete brand
+* User need to login first before visit any resource
 
 ###### 1) Login Page
 <img src="Imgs/Login.png" width=500>
